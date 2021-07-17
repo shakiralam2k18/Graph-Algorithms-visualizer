@@ -1,1 +1,2 @@
-# Graph-Algorithms-visualizer
+# PathFinder
+PathFinder_Project
